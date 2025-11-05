@@ -2,7 +2,10 @@
 
 # GUI YouTube Downloader 
 
-**GUI YouTube Downloader** es una aplicación de escritorio para Windows, macOS y Linux que permite descargar contenido multimedia desde URLs en múltiples formatos. Construida con Python y Tkinter, esta herramienta ofrece una interfaz gráfica intuitiva para gestionar descargas de videos y audio, aprovechando el poder de la librería `yt-dlp`.
+**GUI YouTube Downloader** es una aplicación de escritorio para Windows, macOS y Linux que permite descargar contenido multimedia desde URLs en múltiples formatos. Construida con Python y Tkinter, esta herramienta ofrece una interfaz gráfica intuitiva para gestionar descargas de videos y audio, aprovechando el poder de la librería yt-dlp.
+
+![alt text](https://img.shields.io/badge/python-3.7+-blue.svg)
+![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
